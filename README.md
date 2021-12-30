@@ -1,8 +1,8 @@
-# README-Generator
+# README.md Generator
   ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
 
   ## Description
-  Create quality README.md with command line using Node.js and Inquirer module.
+  Create a quality README file using your command line and Inquirer module
 
   ##Table of Contents
   * [Installation](#installation)
@@ -12,16 +12,16 @@
   * [Questions](#questions)
   
   ## Installation
-  Please clone the repo and download Node. File system and inquirer modules are also needed.
+  Clone this repository and download Node.js- you will also need the file system and inquirer modules.
 
   ## Usage
-  Use Inquirer from command line to answer prompts.  View link here - [ScreenCastify](https://watch.screencastify.com/v/YeQgK6PmCjKCTmWNBaJU)
+  Use Inquirer from command line to answer the prompts.  View link here - [ScreenCastify](https://watch.screencastify.com/v/OJkrOgVvn9i6mnVsBg7r)
 
   ## License
   Project is licensed under MIT
 
   ## Contributors
-  Please see Installation section.
+  
 
   ## Questions
   Please contact allanaleerskov@gmail.com with any questions regarding this project.
